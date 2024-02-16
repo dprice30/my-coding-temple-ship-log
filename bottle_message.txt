@@ -1,1 +1,1 @@
-
+Exercises for Coding Temple - staging, commit, and push file 
